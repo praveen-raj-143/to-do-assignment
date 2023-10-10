@@ -1,0 +1,12 @@
+.complete-button{
+    border-radius: 15px;
+    cursor: pointer;
+}
+.todo-text{
+    border: 2px white solid;
+    border-radius: 15px;
+    width: fit-content;
+    padding: 10px;
+    margin: 10px;
+    cursor: pointer;
+}

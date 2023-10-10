@@ -1,0 +1,10 @@
+.todo-input{
+    margin: auto;
+    width: 650px;
+    height: 40px;
+    border-radius: 20px;
+    border: white;
+    padding: 5px;
+    padding-left: 20px;
+    font-size: large;
+}
